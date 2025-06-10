@@ -1,4 +1,4 @@
-const LoggedIn = () => {
+/*const LoggedIn = () => {
   const text = 'You are logged in';
 
   return (
@@ -6,4 +6,4 @@ const LoggedIn = () => {
   )
 }
 
-export default LoggedIn;
+export default LoggedIn;*/
