@@ -1,9 +1,5 @@
-/*const Greeting = () => {
-  return (
-    <div className="text-center mt-10">
-      <h2 className="text-2xl">Hello from the Greeting Component!</h2>
-    </div>
-  );
+const Greeting = () => {
+  return <p>Hello, welcome!</p>;
 };
 
-export default Greeting;*/
+export default Greeting;
